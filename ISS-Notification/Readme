@@ -1,0 +1,19 @@
+# ISS Notification System
+
+A Python automation project that tracks the International Space Station (ISS) location using an API and sends notifications based on visibility conditions.
+
+## Features
+
+- Retrieves real-time ISS location data through an API
+- Processes and stores ISS position data in CSV format
+- Visualizes ISS trajectory on a world map
+- Supports automated execution using scheduling methods (e.g., GitHub Actions)
+
+## Technologies
+
+Python | API | JSON | CSV | GitHub Actions | Data Visualization
+
+## Notes
+
+The script can be automated using different scheduling approaches; like, pythonanywhere website, infinite while, github action and etc.
+In my implementation, I used GitHub Actions to run the workflow automatically.
