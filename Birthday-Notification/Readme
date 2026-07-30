@@ -1,0 +1,14 @@
+# Birthday Notification System
+
+A Python automation project that sends personalized birthday messages automatically.
+
+## Features
+
+- Reads birthday information from a data file
+- Checks dates automatically
+- Sends personalized birthday emails
+- Automates repetitive tasks using Python
+
+## Technologies
+
+Python | Pandas | Datetime | SMTP | Automation
