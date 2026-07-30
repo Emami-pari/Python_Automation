@@ -1,0 +1,27 @@
+Weather Morning Assistant 🌦️
+
+A Python automation project that checks daily weather conditions and sends useful morning recommendations.
+
+#Features
+
+Fetch weather data from API
+
+Analyze temperature and precipitation
+
+Send automated notifications
+
+#Technologies
+
+Python
+
+API
+
+Automation
+
+Email
+
+#Future Improvements
+
+Climate data integration (ERA5)
+
+AI Agent development
