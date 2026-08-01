@@ -3,7 +3,7 @@ import os
 from email.message import EmailMessage
 from create_recom import message
 my_email="parisa2emami@ymail.com"
-my_pass=os.environ.get(Email_PASS)
+my_pass=os.environ.get("EMAIL_PASS")
 msg=EmailMessage()
 msg["to"] ="emo.golpari2010@gmail.com"
 msg["Subject"]="Let's check weather and clothes!"
