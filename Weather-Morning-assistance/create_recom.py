@@ -1,4 +1,4 @@
-from data_prepration import weather
+from data_preparation import weather
 
 def make_recom(w):
     msg=""
