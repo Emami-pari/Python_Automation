@@ -27,4 +27,6 @@ jobs:
         env:
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASS }}
         run: |
-          python Weather-Morning-assistance/main_sendEmail.py
+          cd Weather-Morning-assistance
+          ls
+          python main_sendEmail.py
