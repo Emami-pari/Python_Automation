@@ -18,7 +18,12 @@ API
 
 Automation
 
-Email
+Email  
+
+## Notifications
+
+Weather alerts are sent through email in this project. 
+The notification system can be adapted to other platforms such as SMS, Telegram bots, WhatsApp, or other messaging services.
 
 #Future Improvements
 
