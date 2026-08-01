@@ -2,7 +2,7 @@ name: Daily Weather Assistant
 
 on:
   schedule:
-    - cron: "30 4 * * *"
+    - cron: "53 12 * * *"
   workflow_dispatch:
 
 jobs:
