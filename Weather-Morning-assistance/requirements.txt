@@ -1,7 +1,2 @@
- requests
+requests
 
-from collections import Counter
-import json
-import smtplib
-from email.message import EmailMessage
-from create_recom import message
